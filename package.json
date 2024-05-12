@@ -1,0 +1,17 @@
+{
+  "name": "nodemaler-library",
+  "version": "1.0.0",
+  "description": "The project is developed by mohd shariq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohd shariq",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13"
+  }
+}
